@@ -1,0 +1,7 @@
+#设置端口号
+server:
+  port: 8002
+
+spring:
+  application:
+    name: order-consul-8002

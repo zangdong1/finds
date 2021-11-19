@@ -1,0 +1,15 @@
+# Project exclude paths
+/order-consul-8002/target/
+/spring-boot-previde/target/
+/spring-boot-recive/target/
+/spring-boot-recive1/target/
+/spring-comment/target/
+/spring-consul-8004/target/
+/spring-eurkea-server7001/target/
+/spring-eurkea-server7003/target/
+/spring-eurkea-server7004/target/
+/spring-feign-8005/target/
+/spring-gateway-recive9527/target/
+/spring-htstrix-recive8007/target/
+/spring-hystrix-dashboard/target/
+/spring-hystrix-previte8006/target/

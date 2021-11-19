@@ -1,0 +1,12 @@
+server:
+  port: 8004
+spring:
+  application:
+    #服务名称
+    name: spring-consul-8004
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        service-name: ${spring.application.name}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/order-consul-8002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-consul-8002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-previde/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-previde/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-recive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-recive/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-recive1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-recive1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-comment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-comment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-consul-8004/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-consul-8004/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-eurkea-server7001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-eurkea-server7001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-eurkea-server7003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-eurkea-server7003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-eurkea-server7004/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-eurkea-server7004/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-feign-8005/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-feign-8005/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-gateway-recive9527/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-gateway-recive9527/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-htstrix-recive8007/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-htstrix-recive8007/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-hystrix-dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-hystrix-dashboard/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-hystrix-previte8006/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-hystrix-previte8006/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
