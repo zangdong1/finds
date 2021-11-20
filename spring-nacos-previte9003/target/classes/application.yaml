@@ -1,0 +1,19 @@
+#设置端口号
+server:
+  port: 9003
+
+spring:
+  application:
+    name: spring-nacos-private9003
+
+  cloud:
+    nacos:
+      discovery:
+        #配置nacos地址
+        server-addr: localhost:8848
+#        暴露端点监控
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
